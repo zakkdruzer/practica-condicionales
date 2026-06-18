@@ -1,5 +1,5 @@
 // Mini 5 · El tablero del videojuego
-// Estado del jugador (cambia los valores para probar los 4 casos):
+// Estado del jugador y puntaje (puedes cambiarlos para probar):
 let vidas1 = 3;
 let vidas2 = 0;
 let puntaje1 = 1500;
