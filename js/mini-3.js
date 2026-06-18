@@ -1,3 +1,4 @@
+// Mini 3 · Clasificador de temperatura
 // Dato de entrada (prueba con varios de la tabla):
 let temperatura1 = 20;
 let temperatura2 = 10;
