@@ -61,6 +61,7 @@ El archivo `boss.js` reúne varios conceptos en un mismo problema:
 - validación de tipo de dato,
 - aplicación de comisión en ciertos retiros,
 - generación de comprobante según corresponda.
+
 **Se incluye tambien una version con mejoras extras**
 
 ## Recomendación
